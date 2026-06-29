@@ -78,7 +78,7 @@ A heatmap comparing average profit per order across customer segments and produc
 
 A lollipop chart comparing average revenue generated per customer across Consumer, Corporate, and Home Office segments.
 
-![Revenue per Segment])
+![Revenue per Segment](images/lollipop.png)
 
 ---
 
