@@ -18,21 +18,21 @@ Analyzes revenue, expenses, profit, and profit margin to evaluate overall financ
 ### Operations Dashboard
 Tracks operational efficiency, workflow performance, and key process metrics.
 
-[View Dashboard](#)
+[View Dashboard](https://public.tableau.com/app/profile/brian.sentz/viz/OperationsDashboard_17814428463000/OperationsPerformanceDashboard)
 
 ---
 
 ### Sales Dashboard
 Provides insight into sales performance, trends, and revenue drivers.
 
-[View Dashboard](#)
+[View Dashboard](https://public.tableau.com/app/profile/brian.sentz/viz/SalesDashboard_17814427270670/ExecutiveSalesDashboard)
 
 ---
 
 ### Customer Behavior Dashboard
 Analyzes customer patterns, engagement, and segmentation trends.
 
-[View Dashboard](#)
+[View Dashboard](https://public.tableau.com/app/profile/brian.sentz/viz/CustomerBehavior_17814434942120/Dashboard)
 
 ---
 
